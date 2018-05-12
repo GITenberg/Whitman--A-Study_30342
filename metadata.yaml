@@ -1,0 +1,27 @@
+_repo: Whitman--A-Study_30342
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30342-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2009-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whitman, Walt, 1819-1892 -- Criticism and interpretation'
+- !lcc 'PS'
+title: 'Whitman: A Study'
+url: http://www.gutenberg.org/ebooks/30342
