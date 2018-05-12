@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1127
     wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30342#Whitman--A-Study
 gutenberg_issued: '2009-10-27'
 gutenberg_type: Text
 identifiers:
